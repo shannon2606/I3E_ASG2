@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Speed : Collectible
 {
-    public const float speedIncreaseVal = 5.0f;
+    public const float speedIncreaseVal = 2.0f;
 
     public override void Collected(GameObject gameobject)
     {
